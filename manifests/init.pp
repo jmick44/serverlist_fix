@@ -6,6 +6,3 @@ class serverlist_fix {
     line   => 'server_list = pcmlb.na.xom.com:8140',
   }
 }
-
-include serverlist_fix
-
